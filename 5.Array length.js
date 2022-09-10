@@ -13,4 +13,9 @@ let movies = ['Ironman','captain america','Thor','Hulk']
 console.log(movies.length);//length =4
 
 
+let bikes = ['cbz','pulser']
+console.log(bikes.length)
+
+
+
 
