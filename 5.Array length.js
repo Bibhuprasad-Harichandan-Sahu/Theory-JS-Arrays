@@ -17,5 +17,3 @@ let bikes = ['cbz','pulser']
 console.log(bikes.length)
 
 
-
-
